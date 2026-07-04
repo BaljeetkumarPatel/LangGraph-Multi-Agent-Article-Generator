@@ -1,6 +1,6 @@
-# 🚀 LangGraph Multi-Agent Article Generator
+#                                                  🚀 LangGraph Multi-Agent Article Generator
 
-::: {align="center"}
+
 ### Intelligent Multi-Agent Content Generation using **LangGraph**, **LangChain**, **FastAPI**, **React**, **Mistral AI**, **Tavily Search**, and **Server-Sent Events (SSE)**
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python)
@@ -9,7 +9,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-:::
+
 
 ------------------------------------------------------------------------
 
